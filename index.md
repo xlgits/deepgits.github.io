@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Hello you. welcome to my personal web page. I'm Anudeep Chirumalla from the east coast of India. I am a CS Grad and a technology generalist interested in product innovation, high-performance systems, internet companies, and all sorts of technology. I have the ability to deep dive into tech and go wide in business applications as needed. I believe in an all-hands-on-deck attitude, which is the fastest way to learn and grow.
+Hello you. welcome to my web page. I'm Anudeep Chirumalla from the east coast of India. I am a CS Grad and a technology generalist interested in product innovation, high-performance systems, internet companies, and all sorts of technology. I can deep dive into tech and go wide in business applications as needed. I believe in an all-hands-on-deck attitude, which is the fastest way to learn and grow.
 </p>
 
 <p>
