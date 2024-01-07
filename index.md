@@ -10,14 +10,14 @@ Hello you. welcome to my personal web page. I'm Anudeep Chirumalla from the east
 </p>
 
 <p>
-I used to work for HCL Tech as a senior engineer looking after a top US telecom operator by facilitating their change management and business transformation projects. Before that I have worked for multiple large MNCs. and before that I sejourned to france to do my MBA. 
+I used to work for HCL Tech as a senior engineer looking after a top US telecom operator by facilitating their change management and business transformation projects. Before that, I have worked for multiple large MNCs. and before that, I sojourned to France to do my MBA. 
 
 </p>
 
 
 
 <p>
-Currently, I am in a mission to build my company in cloud engineering and global IT delivery space.
+Currently, I am looking for opportunities in cloud engineering and global IT delivery space.
 </p>
 
 
